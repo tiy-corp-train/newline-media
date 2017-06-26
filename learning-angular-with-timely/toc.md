@@ -4,7 +4,11 @@
 
 ![clients-list.png](clients-list.png)
 
+![component-in-inspector.png](component-in-inspector.png)
+
 ![create-app-module-in-eclipse.png](create-app-module-in-eclipse.png)
+
+![create-login-card-files.png](create-login-card-files.png)
 
 ![created-registration-cta-files.png](created-registration-cta-files.png)
 
@@ -13,6 +17,10 @@
 ![empty-report-for-marigold.png](empty-report-for-marigold.png)
 
 ![find-login-form-in-eclipse.png](find-login-form-in-eclipse.png)
+
+![login-box-highlighted.png](login-box-highlighted.png)
+
+![login-messed-up-elements.png](login-messed-up-elements.png)
 
 ![login-screen.png](login-screen.png)
 
