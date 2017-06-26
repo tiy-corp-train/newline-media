@@ -8,6 +8,8 @@
 
 ![create-app-module-in-eclipse.png](create-app-module-in-eclipse.png)
 
+![create-app.module.js.png](create-app.module.js.png)
+
 ![create-login-card-files.png](create-login-card-files.png)
 
 ![created-registration-cta-files.png](created-registration-cta-files.png)
