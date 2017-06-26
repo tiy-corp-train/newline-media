@@ -12,6 +12,8 @@
 
 ![create-login-card-files.png](create-login-card-files.png)
 
+![create-the-spa.html-page.png](create-the-spa.html-page.png)
+
 ![created-registration-cta-files.png](created-registration-cta-files.png)
 
 ![empty-clients-list.png](empty-clients-list.png)
