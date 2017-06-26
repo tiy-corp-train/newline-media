@@ -20,6 +20,8 @@
 
 ![find-login-form-in-eclipse.png](find-login-form-in-eclipse.png)
 
+![header-highlighted.png](header-highlighted.png)
+
 ![login-box-highlighted.png](login-box-highlighted.png)
 
 ![login-messed-up-elements.png](login-messed-up-elements.png)
