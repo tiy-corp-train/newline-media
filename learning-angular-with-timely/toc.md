@@ -10,6 +10,8 @@
 
 ![create-app.module.js.png](create-app.module.js.png)
 
+![create-authentication.service.js-file.png](create-authentication.service.js-file.png)
+
 ![create-login-card-files.png](create-login-card-files.png)
 
 ![create-the-spa.html-page.png](create-the-spa.html-page.png)
