@@ -1,3 +1,5 @@
+![api-controllers.png](api-controllers.png)
+
 ![client-edit-form.png](client-edit-form.png)
 
 ![clients-list-with-marigold.png](clients-list-with-marigold.png)
