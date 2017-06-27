@@ -18,6 +18,8 @@
 
 ![create-the-spa.html-page.png](create-the-spa.html-page.png)
 
+![create-time-entries-data.service.js-file.png](create-time-entries-data.service.js-file.png)
+
 ![created-registration-cta-files.png](created-registration-cta-files.png)
 
 ![empty-clients-list.png](empty-clients-list.png)
