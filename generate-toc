@@ -20,7 +20,8 @@ for d in `find . -type d -not -path '\./\.*' -not -path '\.'`; do
     echo "# $d" >> index.md
     echo " " >> index.md
     for f in `ls *.{png,jpeg} 2> /dev/null`; do
-	echo "$f \\" >> index.md
+	echo "## $f" >> index.md
+	echo " " >> index.md
 	echo "![$f]($f)" >> index.md
 	echo " " >> index.md
     done
