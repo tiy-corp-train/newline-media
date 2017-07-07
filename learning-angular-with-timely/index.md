@@ -108,6 +108,10 @@
  
 ![registration-cta-layout.png](registration-cta-layout.png)
  
+## registration-cta-styled.png
+ 
+![registration-cta-styled.png](registration-cta-styled.png)
+ 
 ## registration-cta-works.png
  
 ![registration-cta-works.png](registration-cta-works.png)
