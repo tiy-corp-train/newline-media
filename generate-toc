@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+pushd () {
+    command pushd "$@" > /dev/null
+}
+
+popd () {
+    command popd > /dev/null
+}
+
+rm -f index.md
+echo "# The Iron Yard Corporate Training Newline Media" >> index.md
+echo " " >> index.md
+for d in `find . -type d -not -path '\./\.*' -not -path '\.'`; do
+    echo "[$d]($d)" >> index.md
+    echo " " >> index.md
+    pushd "$d"
+
+    rm -f index.md
+    echo "# $d" >> index.md
+    echo " " >> index.md
+    for f in `ls *.{png,jpeg} 2> /dev/null`; do
+	echo "$f \\" >> index.md
+	echo "![$f]($f)" >> index.md
+	echo " " >> index.md
+    done
+    popd
+done
+
