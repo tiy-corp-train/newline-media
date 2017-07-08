@@ -80,6 +80,18 @@
  
 ![login-box-highlighted.png](login-box-highlighted.png)
  
+## login-card-new-on-page.png
+ 
+![login-card-new-on-page.png](login-card-new-on-page.png)
+ 
+## login-card-no-style.png
+ 
+![login-card-no-style.png](login-card-no-style.png)
+ 
+## login-card-with-style.png
+ 
+![login-card-with-style.png](login-card-with-style.png)
+ 
 ## login-messed-up-elements.png
  
 ![login-messed-up-elements.png](login-messed-up-elements.png)
