@@ -20,3 +20,7 @@
  
 ![the-command-prompt-header.svg](the-command-prompt-header.svg)
  
+## welcome-header.svg
+ 
+![welcome-header.svg](welcome-header.svg)
+ 
