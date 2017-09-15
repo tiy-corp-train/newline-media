@@ -8,6 +8,10 @@
  
 ![auth-clerk.png](auth-clerk.png)
  
+## company-page.png
+ 
+![company-page.png](company-page.png)
+ 
 ## logged-out.png
  
 ![logged-out.png](logged-out.png)
