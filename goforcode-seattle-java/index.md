@@ -16,3 +16,7 @@
  
 ![logged-out.png](logged-out.png)
  
+## step-2-error-message.png
+ 
+![step-2-error-message.png](step-2-error-message.png)
+ 
