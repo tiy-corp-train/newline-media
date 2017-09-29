@@ -8,3 +8,5 @@
  
 [./learning-angularjs-with-timely](./learning-angularjs-with-timely)
  
+[./spring-training](./spring-training)
+ 
